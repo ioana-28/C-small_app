@@ -1,0 +1,44 @@
+University A
+    Faculty of Engineering
+        Computer Science
+        Electrical Engineering
+        Mechanical Engineering
+        Civil Engineering
+        Aerospace Engineering
+    Faculty of Medicine
+        General Medicine
+        Dentistry
+        Pharmacy
+        Nursing
+        Biomedical Sciences
+University B
+    Faculty of Arts
+        Literature
+        History
+        Philosophy
+        Linguistics
+    Faculty of Science
+        Physics
+        Chemistry
+        Biology
+        Mathematics
+        Environmental Science
+University C
+    Faculty of Business
+        Accounting
+        Finance
+        Marketing
+        Human Resource Management
+    Faculty of Law
+        International Law
+        Criminal Law
+        Business Law
+University D
+    Faculty of Social Sciences
+        Sociology
+        Psychology
+        Political Science
+    Faculty of Education
+        Early Childhood Education
+        Special Education
+        Educational Technology

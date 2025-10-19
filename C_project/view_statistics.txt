@@ -1,0 +1,92 @@
+University: University A
+   Total applications: 1
+    Faculty: Faculty of Engineering
+       Applications: 1
+        Specialization: Computer Science
+           Applications: 1
+        Specialization: Electrical Engineering
+           Applications: 0
+        Specialization: Mechanical Engineering
+           Applications: 0
+        Specialization: Civil Engineering
+           Applications: 0
+        Specialization: Aerospace Engineering
+           Applications: 0
+    Faculty: Faculty of Medicine
+       Applications: 0
+        Specialization: General Medicine
+           Applications: 0
+        Specialization: Dentistry
+           Applications: 0
+        Specialization: Pharmacy
+           Applications: 0
+        Specialization: Nursing
+           Applications: 0
+        Specialization: Biomedical Sciences
+           Applications: 0
+
+University: University B
+   Total applications: 0
+    Faculty: Faculty of Arts
+       Applications: 0
+        Specialization: Literature
+           Applications: 0
+        Specialization: History
+           Applications: 0
+        Specialization: Philosophy
+           Applications: 0
+        Specialization: Linguistics
+           Applications: 0
+    Faculty: Faculty of Science
+       Applications: 0
+        Specialization: Physics
+           Applications: 0
+        Specialization: Chemistry
+           Applications: 0
+        Specialization: Biology
+           Applications: 0
+        Specialization: Mathematics
+           Applications: 0
+        Specialization: Environmental Science
+           Applications: 0
+
+University: University C
+   Total applications: 0
+    Faculty: Faculty of Business
+       Applications: 0
+        Specialization: Accounting
+           Applications: 0
+        Specialization: Finance
+           Applications: 0
+        Specialization: Marketing
+           Applications: 0
+        Specialization: Human Resource Management
+           Applications: 0
+    Faculty: Faculty of Law
+       Applications: 0
+        Specialization: International Law
+           Applications: 0
+        Specialization: Criminal Law
+           Applications: 0
+        Specialization: Business Law
+           Applications: 0
+
+University: University D
+   Total applications: 0
+    Faculty: Faculty of Social Sciences
+       Applications: 0
+        Specialization: Sociology
+           Applications: 0
+        Specialization: Psychology
+           Applications: 0
+        Specialization: Political Science
+           Applications: 0
+    Faculty: Faculty of Education
+       Applications: 0
+        Specialization: Early Childhood Education
+           Applications: 0
+        Specialization: Special Education
+           Applications: 0
+        Specialization: Educational Technology
+           Applications: 0
+
